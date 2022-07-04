@@ -12,7 +12,7 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": ""
+            "value": "5363951902"
         },
         "ASS_ID": {
             "description": "fill with telegram id of account",
@@ -26,7 +26,7 @@
         "LOG_GROUP_ID": {
             "description": "create a private group and get the group id, add your bot as admin to the group too",
             "required": true,
-            "value": ""
+            "value": "-1001732849713"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -41,17 +41,17 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "KyuraSupport"
+            "value": "BS_RP"
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "KyuraProjects"
+            "value": "WD_RG"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "1663258664"
+            "value": "5363951902"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
@@ -66,7 +66,7 @@
         "MONGO_DB_URI": {
             "description": "fill with the mongodb url get from mongodb.cloud.com (don't use mine below !)",
             "required": true,
-            "value": ""
+            "value": "mongodb+srv://sir:sir@cluster0.o4wuggg.mongodb.net/?retryWrites=true&w=majority"
         }
     },
     "buildpacks": [
